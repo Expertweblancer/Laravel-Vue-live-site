@@ -17,7 +17,7 @@
 	"license": "ISC",
 	"dependencies": {
 		"bootstrap-vue": "^2.0.0-rc.11",
-		"moment": "2.18.1",
+		"moment": "2.19.3",
 		"node-wkhtmltopdf": "^2.0.0",
 		"v-calendar": "^0.9.7",
 		"v-click-outside": "0.1.4",
