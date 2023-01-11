@@ -33,7 +33,7 @@
 		"vue-scrollto": "^2.7.8",
 		"vue-select": "^2.4.0",
 		"vue-session": "^1.0.0",
-		"vue-socket.io": "2.1.1-a",
+		"vue-socket.io": "3.0.10",
 		"vue-tables-2": "^1.4.63",
 		"vue2-datepicker": "^1.9.8",
 		"vue2-slot-calendar": "2.0.3",
